@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Business\\DigiTurkSeries.Business.csproj": {}
+    "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Business\\DigiTurkSeries.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Business\\DigiTurkSeries.Business.csproj": {
+    "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Business\\DigiTurkSeries.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Business\\DigiTurkSeries.Business.csproj",
+        "projectUniqueName": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Business\\DigiTurkSeries.Business.csproj",
         "projectName": "DigiTurkSeries.Business",
-        "projectPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Business\\DigiTurkSeries.Business.csproj",
+        "projectPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Business\\DigiTurkSeries.Business.csproj",
         "packagesPath": "C:\\Users\\gokhan.aktoprak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Business\\obj\\",
+        "outputPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,11 +35,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj"
+              "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj": {
+                "projectPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj"
               },
-              "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj": {
-                "projectPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj"
+              "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj": {
+                "projectPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj": {
+    "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj",
+        "projectUniqueName": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj",
         "projectName": "DigiTurkSeries.DataAccess",
-        "projectPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj",
+        "projectPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\DigiTurkSeries.DataAccess.csproj",
         "packagesPath": "C:\\Users\\gokhan.aktoprak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\obj\\",
+        "outputPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -109,8 +109,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj": {
-                "projectPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj"
+              "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj": {
+                "projectPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj": {
+    "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
+        "projectUniqueName": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
         "projectName": "DigiTurkSeries.Entities",
-        "projectPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
+        "projectPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
         "packagesPath": "C:\\Users\\gokhan.aktoprak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\obj\\",
+        "outputPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l81o9QQWZpv1+A8k+l+G4XXnnADjLUaBZTyuFa0NJrjNrMBMXmF1tKRT798uoeIrnyttSHSGvxkZrknq+58slw==",
+  "dgSpecHash": "dyGXUa+DbCcprFqi5BTD8CaCRYDPZvMcJ+MZWZZxtaLd3L5EWtqAk4HBMQ0w2WWCbFheIIq8oWvnv4kESvu+gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.API\\DigiTurkSeries.API.csproj",
+  "projectFilePath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.API\\DigiTurkSeries.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gokhan.aktoprak\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\gokhan.aktoprak\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

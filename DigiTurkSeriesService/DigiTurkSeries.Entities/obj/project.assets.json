@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
+      "projectUniqueName": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
       "projectName": "DigiTurkSeries.Entities",
-      "projectPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
+      "projectPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
       "packagesPath": "C:\\Users\\gokhan.aktoprak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\obj\\",
+      "outputPath": "D:\\Production\\DigiTurkAp\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
