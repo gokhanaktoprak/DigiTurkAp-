@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L517P4MvVvBBinAz/ghls1zDX6o8/tMXEyZqL5TEaRISRu1zO3fL36V/nddtdXUuX6dWAcuFxYy/VUQtUHSFuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokhan.aktoprak\\source\\repos\\DigiTurkSeriesService\\DigiTurkSeries.Entities\\DigiTurkSeries.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokhan.aktoprak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

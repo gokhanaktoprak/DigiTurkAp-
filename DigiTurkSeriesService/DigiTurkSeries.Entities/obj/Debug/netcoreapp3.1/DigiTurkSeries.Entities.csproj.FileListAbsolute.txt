@@ -1,0 +1,10 @@
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\bin\Debug\netcoreapp3.1\DigiTurkSeries.Entities.deps.json
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\bin\Debug\netcoreapp3.1\DigiTurkSeries.Entities.dll
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\bin\Debug\netcoreapp3.1\DigiTurkSeries.Entities.pdb
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\obj\Debug\netcoreapp3.1\DigiTurkSeries.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\obj\Debug\netcoreapp3.1\DigiTurkSeries.Entities.AssemblyInfoInputs.cache
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\obj\Debug\netcoreapp3.1\DigiTurkSeries.Entities.AssemblyInfo.cs
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\obj\Debug\netcoreapp3.1\DigiTurkSeries.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\obj\Debug\netcoreapp3.1\DigiTurkSeries.Entities.dll
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\obj\Debug\netcoreapp3.1\DigiTurkSeries.Entities.pdb
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Entities\obj\Debug\netcoreapp3.1\DigiTurkSeries.Entities.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\bin\Debug\netcoreapp3.1\DigiTurkSeries.Business.deps.json
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\bin\Debug\netcoreapp3.1\DigiTurkSeries.Business.dll
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\bin\Debug\netcoreapp3.1\DigiTurkSeries.Business.pdb
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\obj\Debug\netcoreapp3.1\DigiTurkSeries.Business.csproj.AssemblyReference.cache
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\obj\Debug\netcoreapp3.1\DigiTurkSeries.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\obj\Debug\netcoreapp3.1\DigiTurkSeries.Business.AssemblyInfoInputs.cache
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\obj\Debug\netcoreapp3.1\DigiTurkSeries.Business.AssemblyInfo.cs
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\obj\Debug\netcoreapp3.1\DigiTurkSeries.Business.csproj.CoreCompileInputs.cache
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\obj\Debug\netcoreapp3.1\DigiTurkSeries.Business.dll
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\obj\Debug\netcoreapp3.1\DigiTurkSeries.Business.pdb
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\bin\Debug\netcoreapp3.1\DigiTurkSeries.DataAccess.dll
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\bin\Debug\netcoreapp3.1\DigiTurkSeries.Entities.dll
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\bin\Debug\netcoreapp3.1\DigiTurkSeries.DataAccess.pdb
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\bin\Debug\netcoreapp3.1\DigiTurkSeries.Entities.pdb
+C:\Users\gokhan.aktoprak\source\repos\DigiTurkSeriesService\DigiTurkSeries.Business\obj\Debug\netcoreapp3.1\DigiTurkSeries.Business.csproj.CopyComplete

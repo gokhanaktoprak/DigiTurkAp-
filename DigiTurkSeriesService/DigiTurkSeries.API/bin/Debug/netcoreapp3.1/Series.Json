@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "The Walking Dead",
+        "description": "The Walking Dead, Frank Darabont tarafından geliştirilen bir Amerikan televizyon dizisidir. Hikâyesi, Robert Kirkman, Tony Moore ve Charlie Adlard 'ın aynı adlı çizgi romanına dayanmaktadır.",
+        "image": "WalkingDead.png",
+        "season": [
+            {
+                "id": 1,
+                "name": "Event Beginning",
+                "description": "Event Beginning",
+                "image": "WalkingDead.png",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "name": "Beginning",
+                        "description": "Beginning",
+                        "seasonID": 1,
+                        "season": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "Event Beginning",
+                        "description": "Event Beginning",
+                        "seasonID": 1,
+                        "season": null
+                    }
+                ],
+                "seriesID": 1,
+                "series": null
+            },
+            {
+                "id": 2,
+                "name": "Out of Control",
+                "description": "Out of Control",
+                "image": "WalkingDead.png",
+                "episodes": [
+                    {
+                        "id": 3,
+                        "name": "Out of Control",
+                        "description": "Out of Control",
+                        "seasonID": 2,
+                        "season": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "Out of Control",
+                        "description": "Out of Control",
+                        "seasonID": 2,
+                        "season": null
+                    }
+                ],
+                "seriesID": 1,
+                "series": null
+            }
+        ]
+    }
+]
